@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SMOLLAN DZ</string>
+
+    <string-array name="noms_fr_achat_hs">
+        <item>--Veuillez selectionner--</item>
+        <item>Plus d une fois par mois</item>
+        <item>Une fois par mois</item>
+        <item>Chaque 2 mois</item>
+        <item>Chaque 3 mois ou plus</item>
+
+    </string-array>
+
+    <string-array name="formats_omo">
+        <item>OMO 300G</item>
+        <item>OMO 580G</item>
+        <item>OMO 800G</item>
+        <item>OMO 1.4KG</item>
+    </string-array>
+    <string-array name="criteres_achat">
+        <item>Prix et promotions</item>
+        <item>Durabilité du parfum</item>
+        <item>Soin des couleurs</item>
+        <item>Efficacité contre les tâches</item>
+        <item>Protection de la peau sensible</item>
+    </string-array>
+</resources>
